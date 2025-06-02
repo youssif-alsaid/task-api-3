@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    height: 5000px;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    transition: all 0.5s linear;
+}
+
+p{
+    margin-top: 70px;
+
+}
